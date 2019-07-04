@@ -1,0 +1,592 @@
+*{
+    box-sizing: border-box;
+}
+::selection {
+    color: rgb(255, 255, 255);
+    background-color: rgb(182, 11, 216);
+  } 
+body::-webkit-scrollbar {
+    width: 1em;
+}
+ 
+body::-webkit-scrollbar-thumb {
+    background-image: linear-gradient(to bottom, #bb00cd, #d027c6, #e141c1, #ee58be, #f96ebd);
+    outline: 1px solid slategrey;
+    border-radius: 7px;
+}
+    #body{
+        background-color: black;
+        margin:0;
+        padding: 0;
+    }
+        .all{
+            color: white;
+            margin: auto;
+        }
+                    .title__site{
+                        text-align: center;
+                        text-decoration: underline;
+                        width: 100%;
+                        padding: 5px;
+                        margin: 70px 0px 100px 0px;
+                        font-family: 'Cormorant Upright', serif;
+                        color: goldenrod;
+                        font-size: 2.8rem;
+                    }
+                        .font__para{
+                            font-family: 'Quicksand', sans-serif;
+                            font-size: 1.4rem;
+                            padding: 20px;
+                        }
+                        mark, em, strong{
+                            font-style: normal;
+                            font-weight: normal;
+                        }
+   
+        /*header*/
+            .menu{
+                display: none;
+            }
+            .desactive{
+                display: block !important;
+            } 
+                    .fas{
+                        font-size: 20px !important;
+                    }
+                .surv:hover{
+                    color: rgb(219, 126, 255) !important;
+                }
+                        .side-nav .collapsible a{
+                            padding:0;
+                            display: block;
+                            font-size: 1.2rem !important;
+                            padding-right: 5px;
+                        }
+                            .side-nav .social .fab, .side-nav .social .far, .side-nav .social .fas{
+                                font-size: 1.2rem;
+                            }
+                        
+                
+            /*carousel*/
+                .carousel{
+                        position: relative;
+                        top: 50px;
+                    } 
+                    .carousel .carousel-indicators li{
+                        border-radius: 0 ! important; 
+                    }
+                .carousel__1024{
+                    display:none;
+                }
+                .carousel__1400{
+                    display:none;
+                }
+                .carousel__1920{
+                    display:none;
+                }
+                .carousel__2560{
+                    display:none;
+                }
+                .carousel__3840{
+                    display:none;
+                }
+            /*carousel*/
+                    .container__presentation{
+                        margin: auto;
+                        display: flex;
+                        flex-direction: column;
+                    }
+                    .container__presentation--secondary{
+                        margin-top: 80px;
+                    }
+                    .container__presentation--third{
+                        margin-top: 150px;
+                    }
+                    .container__presentation--fours{
+                        margin-top: 90px;
+                    }
+            
+                        .presentation__img{
+                            width: 300px;
+                            height: 300px;
+                            margin: auto;
+                        }
+        .container__map{
+            margin-top: 100px;
+        }
+             #map{
+                display: block;
+                margin: auto;
+                width:90%;
+                height:70vh;
+            }
+        /*index*/
+        /*index, mention, qui sommes nous, etre coiffeur, nos tarifs*/
+                    .container__top{
+                        text-align: center;
+                    }
+        /*index, mention, qui sommes nous, etre coiffeur, nos tarifs*/
+        /*Nos coupes*/
+                        .container__picture{
+                            flex-wrap: wrap;
+                            display: flex;
+                            justify-content: space-around;
+                        }  
+                            .slide__picture{
+                                margin-bottom: 50px;
+                            }
+        /*Nos coupes*/
+        /*Nos tarifs*/
+                .title__site--tarif{
+                    margin-top: 150px;
+                }
+                .title__site--tarification{
+                    margin-top: 210px;
+                }
+                .container__table--primary{
+                    margin-top: 200px;
+                }
+                
+        /*Nos tarifs*/
+
+        /*Mention*/
+                .title__site--raison{
+                    margin-top: 250px;
+                }
+                .title__site--establishment{
+                    margin-top: 320px;
+                }
+                .title__site--adress{
+                    margin-top: 220px;
+                }
+                .title__site--siret{
+                    margin-top: 340px;
+                }
+        /*Mention*/
+
+        /*Nos tarifs*/
+                table{
+                    width: 100%;
+                    margin: auto;
+                    border-collapse:collapse;
+                }
+                        tr:nth-child(even){
+                            background-color: rgb(97, 97, 97);
+                        }
+                        tr:nth-child(odd){
+                            background-color: rgb(49, 49, 49);
+                        }
+
+                    thead th, tfoot td {
+                        background-color: rgb(136, 1, 136);
+                        color: white;
+                        text-transform:uppercase;
+                    }
+                    td, th{
+                        font-size: 1.2rem !important;
+                        border:	2px solid rgb(255, 255, 255);
+                        padding: 20px;	
+                    }
+
+        /*Nos tarifs*/
+    /*Footer*/
+    .grey-background{
+        background-image: linear-gradient(to bottom, #000000, #090909, #111111, #171717, #1c1c1c);
+    }
+    .container__footer{
+        display: flex;
+        padding: 50px;
+        flex-direction: column;
+    }
+        .container__menu-footer--secondary{
+            margin-top: 20px;
+        }
+            .menu__footer{
+                margin: auto;
+                padding:0;
+                height: 100px;
+                list-style-type: none;
+            }
+            .title__footer{
+                font-size: 1rem;
+                width: 100px;
+            }
+        
+        /*Footer*/
+@media screen and (min-width:768px){
+    .fa-chevron-circle-down{
+        margin: 350px 0 0 0;
+    }
+
+       /*index*/
+                    .container__presentation{
+                        margin: auto;
+                        display: flex;
+                        flex-direction: column;
+                    }
+                    .container__presentation--secondary{
+                        margin-top: 420px;
+                    }
+                    .container__presentation--third{
+                        margin-top: 320px;
+                    }
+                    .container__presentation--fours{
+                        margin-top: 250px;
+                    }
+        .container__map{
+            margin-top: 300px;
+        }
+        /*index*/
+        /*Mention*/
+                .title__site--raison{
+                    margin-top: 250px;
+                }
+                .title__site--establishment{
+                    margin-top: 500px;
+                }
+                .title__site--adress{
+                    margin-top: 380px;
+                }
+                .title__site--siret{
+                    margin-top: 430px;
+                }
+        /*Mention*/
+        /*Nos tarifs*/
+                .container__table--primary{
+                    margin-top: 200px;
+                }
+                .title__site--tarif{
+                    margin-top: 250px;
+                }
+                .title__site--tarification{
+                    margin-top: 340px;
+                }
+        /*Nos tarifs*/
+        /*Footer*/  
+        .container__footer{
+            flex-direction: row;
+        }
+        .container__menu-footer--secondary{
+            margin: 0 0 0 100px;
+        }
+         /*Footer*/ 
+}        
+@media screen and (min-width:834px){
+        /*header*/
+            .desactive{
+                display: none !important;
+            }
+            .menu{
+                display: block;
+                z-index: 500;
+                position: fixed;
+                margin:0;
+                background-color: rgb(0, 0, 0);
+                width: 100%;
+                height: 150px;
+            }
+                    .logo-center{
+                        position: relative;
+                        height: 90px;
+                        display:block;
+                        margin:auto;
+                    }
+                .container__menu{
+                    position: relative;
+                    font-size: 1.3rem;
+                    padding:0;
+                    top: 10px;
+                    background-color: rgb(0, 0, 0);
+                    color: white;
+                    display: flex;
+                    list-style-type: none;
+                    justify-content: space-around;
+                    width: 750px;
+                    height: 50px;
+                    margin:auto;
+                }
+                    .accueil{
+                        height: 25px;
+                        text-decoration: none;
+                        padding-left: 10px;
+                        border-right: 1px solid white;
+                        border-left: 1px solid white;
+                    }
+                    .nous-trouver, .nos-coupes, .nos-produit, .telephonez-nous{
+                        padding-left: 10px;
+                        height: 25px;
+                        border-right: 1px solid white;
+                    }
+                    li{
+                        padding-right: 10px;
+                        margin: auto;
+                    }
+            /*carousel*/
+                .carousel__834{
+                    display:none;
+                }
+                .carousel__834{
+                    display:block;
+                }
+                .carousel__1400{
+                    display:none;
+                }
+                .carousel__1920{
+                    display:none;
+                }
+                .carousel__2560{
+                    display:none;
+                }
+                .carousel__3840{
+                    display:none;
+                }
+            /*carousel*/
+                    
+        /*header*/
+        /*index*/
+                    .container__presentation--primary{
+                        margin-top: 200px;
+                        }
+                        .container__presentation--secondary{
+                        margin-top: 400px;
+                        }
+                        .container__presentation--third{
+                        margin-top: 370px;
+                        }
+                        .container__presentation--fours{
+                        margin-top: 330px;
+                            }
+                        .container__map{
+                        margin-top: 280px;
+                        }
+                        .title__site{
+                            margin-top:100px;
+                        }
+        /*index*/
+        /*mention*/
+                .title__site--raison{
+                    margin-top: 350px;
+                }
+                .title__site--establishment{
+                    margin-top: 470px;
+                }
+                .title__site--adress{
+                    margin-top: 400px;
+                }
+                .title__site--siret{
+                    margin-top: 650px;
+                }
+                
+        /*mention*/ 
+        /*Nos tarifs*/
+                .container__table--primary{
+                    margin-top: 200px;
+                }
+                .title__site--tarif{
+                    margin-top: 250px;
+                }
+                .title__site--tarification{
+                    margin-top: 420px;
+                }
+                
+        /*Nos tarifs*/     
+}
+@media screen and (min-width:1024px){
+        .all{
+            width:100%;
+        }
+        /*header*/
+            .desactive{
+                display: none !important;
+            }
+            .menu{
+                height:90px;
+            }
+            .container__menu{
+                position: relative;
+                font-size: 1.3rem;
+                left: 60px;
+                top:-90px;
+                padding:0;
+                background-color: rgb(0, 0, 0);
+                color: white;
+                display: flex;
+                list-style-type: none;
+                justify-content: space-around;
+                width: 750px;
+                height: 50px;
+                margin:auto;
+            }
+                .accueil{
+                    height: 25px;
+                    text-decoration: none;
+                    padding-left: 10px;
+                    border-right: 1px solid white;
+                    border-left: 1px solid white;
+                }
+                .nous-trouver, .nos-coupes, .nos-produit, .telephonez-nous{
+                    height: 25px;
+                    border-right: 1px solid white;
+                }
+                li{
+                    padding-right: 10px;
+                    margin: auto;
+                }
+            .logo{
+                margin: auto;
+                width:1110px;
+            }
+            .logo-center{
+                margin: 20px;
+            }
+            /*carousel*/
+                .carousel__834{
+                    display:none;
+                }
+                .carousel__1024{
+                    display:none;
+                }
+                .carousel__1400{
+                    display:block;
+                }
+                .carousel__1920{
+                    display:none;
+                }
+                .carousel__2560{
+                    display:none;
+                }
+                .carousel__3840{
+                    display:none;
+                }
+            /*carousel*/
+        /*header*/
+        /*index*/
+                    .container__presentation{
+                        display: flex;
+                        flex-direction: row;
+                        width: 80%;
+                    }
+                    .container__presentation--primary{
+                        margin-top: 200px;
+                    }
+                    .container__presentation--secondary{
+                        flex-direction: row-reverse;
+                        margin-top: 480px;
+                    }
+                    .container__presentation--third{
+                        margin-top: 500px;
+                        
+                    }
+                    .container__presentation--fours{
+                        flex-direction: row-reverse;
+                        margin-top: 510px;
+                    }
+                    .title__site--votre-coiffeur{
+                        margin-top: 300px;
+                    }
+                        .presentation__img{
+                            width: 100%;
+                        }
+                        .font__para--primary{
+                            text-align: left;
+                        }
+                        .font__para--secondary{
+                            text-align: right;
+                        }
+        .container__map{
+            margin-top: 530px;
+        }
+        /*index*/
+        /*mention*/
+                .title__site--raison{
+                    margin-top: 390px;
+                }
+                .title__site--establishment{
+                    margin-top: 600px;
+                }
+                .title__site--adress{
+                    margin-top: 500px;
+                }
+                .title__site--siret{
+                    margin-top: 520px;
+                }
+        /*mention*/
+        /*nos tarifs*/
+                .title__site--tarif{
+                    margin-top: 250px;
+                }
+                .title__site--tarification{
+                    margin-top: 550px;
+                }
+        /*nos tarifs*/
+    
+}
+@media screen and (min-width:1400px){
+    .all{
+        width: 1400px;
+    }
+    /*carousel*/
+                .carousel__834{
+                    display:none;
+                }
+                .carousel__1024{
+                    display:none;
+                }
+                .carousel__1400{
+                    display:none;
+                }
+                .carousel__1920{
+                    display:block;
+                }
+                .carousel__2560{
+                    display:none;
+                }
+                .carousel__3840{
+                    display:none;
+                }
+    /*carousel*/
+}
+@media screen and (min-width:1920px){
+    /*carousel*/
+            .carousel__834{
+                display:none;
+            }
+            .carousel__1024{
+                display:none;
+            }
+            .carousel__1400{
+                display:none;
+            }
+            .carousel__1920{
+                display:none;
+            }
+            .carousel__2560{
+                display:block;
+            }
+            .carousel__3840{
+                display:none;
+            }
+    /*carousel*/
+}
+@media screen and (min-width:2560px){
+    /*carousel*/
+                .carousel__834{
+                    display:none;
+                }
+                .carousel__1024{
+                    display:none;
+                }
+                .carousel__1400{
+                    display:none;
+                }
+                .carousel__1920{
+                    display:none;
+                }
+                .carousel__2560{
+                    display:none;
+                }
+                .carousel__3840{
+                    display:block;
+                }
+    /*carousel*/
+}
