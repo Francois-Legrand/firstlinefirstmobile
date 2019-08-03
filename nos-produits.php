@@ -110,9 +110,6 @@
                     <div class="carousel-item">
                         <div class="container__picture">
                             <h3 class="title__site">Nos produits</h3>
-                            <div class="slide__picture">
-                                <img  src="img/produits/95573_chopperhead_huile_sans_rincage_pour_barbus.png" class="d-block w-300px" alt="chopperhead huile sans rincage pour barbus">
-                            </div>
 
                             <div class="slide__picture">
                                 <img  src="img/produits/956012_cire_classique_90g.png" class="d-block w-300px" alt="cire classique 90g">
@@ -124,6 +121,10 @@
 
                             <div class="slide__picture">
                                 <img  src="img/produits/956371_chop_cire_grooming.png" class="d-block w-300px" alt="chop cire grooming">
+                            </div>
+                            
+                            <div class="slide__picture">
+                                <img  src="img/produits/95573_chopperhead_huile_sans_rincage_pour_barbus.png" class="d-block w-300px" alt="chopperhead huile sans rincage pour barbus">
                             </div>
 
                             <div class="slide__picture">
