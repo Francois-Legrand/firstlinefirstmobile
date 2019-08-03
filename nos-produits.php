@@ -27,6 +27,8 @@
                 <ol class="carousel-indicators">
                     <!--indique l'ordre de déroulement des carousels-->
                     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                    
                 </ol>
                 <div class="carousel-inner">
                     <div class="carousel-item active">
@@ -105,7 +107,75 @@
                             </div>
                         </div>
                     </div>
+                    <div class="carousel-item">
+                        <div class="container__picture">
+                            <h3 class="title__site">Nos produits</h3>
+                            <div class="slide__picture">
+                                <img  src="img/produits/95573_chopperhead_huile_sans_rincage_pour_barbus.png" class="d-block w-300px" alt="chopperhead huile sans rincage pour barbus">
+                            </div>
+
+                            <div class="slide__picture">
+                                <img  src="img/produits/956012_cire_classique_90g.png" class="d-block w-300px" alt="cire classique 90g">
+                            </div>
+
+                            <div class="slide__picture">
+                                <img  src="img/produits/956153_chop_cire_mate.png" class="d-block w-300px" alt="chop cire mate">
+                            </div>
+
+                            <div class="slide__picture">
+                                <img  src="img/produits/956371_chop_cire_grooming.png" class="d-block w-300px" alt="chop cire grooming">
+                            </div>
+
+                            <div class="slide__picture">
+                                <img  src="img/produits/baume_apres_rasage_75ml_new.png" class="d-block w-300px" alt="baume apres rasage 75ml">
+                            </div>
+
+                            <div class="slide__picture">
+                                <img  src="img/produits/baume-apres-rasage.png" class="d-block w-300px" alt="baume apres rasage">
+                            </div>
+                            <div class="slide__picture">
+                                <img  src="img/produits/chopper_creme_rasage_10ml_bd_1.png" class="d-block w-300px" alt="chopper creme rasage 10ml">
+                            </div>
+
+                            <div class="slide__picture">
+                                <img  src="img/produits/chopper_gel_fibreux_75ml_bd.png" class="d-block w-300px" alt="chopper gel fibreux 75ml">
+                            </div>
+
+                            <div class="slide__picture">
+                                <img  src="img/produits/chopper_gel_fixant_fort_150ml_bd.png" class="d-block w-300px" alt="chopper gel fixant fort 150ml">
+                            </div>
+
+                            <div class="slide__picture">
+                                <img  src="img/produits/chopper_gel__modeleur_150ml_bd.png" class="d-block w-300px" alt="chopper gel modeleur 150ml bd">
+                            </div>
+
+                            <div class="slide__picture">
+                                <img  src="img/produits/chopper_huile_avant_rasage_50ml_bd.png" class="d-block w-300px" alt="chopper huile avant rasage 50ml">
+                            </div>
+
+                            <div class="slide__picture">
+                                <img  src="img/produits/chopper_sprayfixantfort_bd.png" class="d-block w-300px" alt="chopper sprayfixantfort">
+                            </div>
+
+                            <div class="slide__picture">
+                                <img  src="img/produits/chopper_tonique_apres_rasage_100ml_bd.png" class="d-block w-300px" alt="chopper tonique apres rasage 100ml">
+                            </div>
+
+                            <div class="slide__picture">
+                                <img  src="img/produits/creme_rasage_150ml_new.png" class="d-block w-300px" alt="creme rasage 150ml">
+                            </div>
+
+                            <div class="slide__picture">
+                                <img  src="img/produits/shampoingcheveuxbarbe50ml.png" class="d-block w-300px" alt="shampoing cheveux barbe 50ml">
+                            </div>
+
+                            <div class="slide__picture">
+                                <img  src="img/produits/shampoingcheveuxbarbeserpent50ml.png" class="d-block w-300px" alt="shampoing cheveux barbe serpent 50ml">
+                            </div>
+                        </div>
+                    </div>
                 </div>
+                
                 <!--bouton de déroulement des carousels-->
                 <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
                     <span class="fa fa-chevron-left" aria-hidden="true"></span>
