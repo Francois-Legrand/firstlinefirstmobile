@@ -33,75 +33,75 @@
                         <div class="container__picture">
                             <h3 class="title__site">Nos produits</h3>
                             <div class="slide__picture">
-                                <img  src="img/produits/day-cream-leavein-karite-hydra-rene-furterer_0.png" class="d-block w-300px" alt="day cream leavein karite hydra rene furterer">
+                                <img  src="img/produits/BiolageRAWPDP8.png" class="d-block w-300px" alt="Biolage raw pdp8">
                             </div>
 
                             <div class="slide__picture">
-                                <img  src="img/produits/Lumicia_Shampooing_revelation_lumière_Rene-Furterer.png" class="d-block w-300px" alt="Lumicia Shampooing revelation lumière Rene Furterer">
+                                <img  src="img/produits/BiolageRAWPDP4.png" class="d-block w-300px" alt="Biolage raw pdp4">
                             </div>
 
                             <div class="slide__picture">
-                                <img  src="img/produits/day-cream-leavein-karite-nutri-rene-furterer.png" class="d-block w-300px" alt="day cream leavein karite nutri rene furterer">
+                                <img  src="img/produits/BiolageRAWPDP5.png" class="d-block w-300px" alt="biolage raw pdp5">
                             </div>
 
                             <div class="slide__picture">
-                                <img  src="img/produits/mask-karite-nutri-rene-furterer.png" class="d-block w-300px" alt="mask karite nutri rene furterer">
+                                <img  src="img/produits/BiolageRAWPDP6.png" class="d-block w-300px" alt="biolage raw pdp6">
                             </div>
 
                             <div class="slide__picture">
-                                <img  src="img/produits/oil-karite-nutri-rene-furterer_0.png" class="d-block w-300px" alt="oil karite nutri rene furterer">
+                                <img  src="img/produits/BiolageRAWPDP9.png" class="d-block w-300px" alt="biolage raw pdp9">
                             </div>
 
                             <div class="slide__picture">
-                                <img  src="img/produits/overnight-haircare-leavein-karite-nutri-rene-furterer.png" class="d-block w-300px" alt="overnight haircare leavein karite nutri rene furterer">
+                                <img  src="img/produits/Total_Results_So_Long_Damage_Conditioner_TR-SLD-C.png" class="d-block w-300px" alt="Total Results So Long Damage Conditioner TR-SLD-C">
                             </div>
 
                             <div class="slide__picture">
-                                <img  src="img/produits/RF-INITIA-Packshots-shamp-douceur-brillance-250ml-400x493.png" class="d-block w-300px" alt="shamp douceur brillance 250ml">
+                                <img  src="img/produits/Total_Results_Moisture_Me_Rich_Conditioner_TR-MMR-C.png" class="d-block w-300px" alt="Total Results Moisture Me Rich Conditioner TR-MMR-C">
                             </div>
 
                             <div class="slide__picture">
-                                <img  src="img/produits/rf_website_okara-color_color-protection-mask_jar_200ml_packshot_product-page_400x493.png" class="d-block w-300px" alt="okara color protection mask 200ml">
+                                <img  src="img/produits/Total_Results_Moisture_Me_Rich_Shampoo_TR-MMR-S.png" class="d-block w-300px" alt="Total Results Moisture Me Rich Shampoo TR-MMR-S">
                             </div>
 
                             <div class="slide__picture">
-                                <img  src="img/produits/rf_website_okara-color_color-protection-shampoo_200ml_packshot_product-page_400x493.png" class="d-block w-300px" alt="protection shampoo 200ml">
+                                <img  src="img/produits/Total_Results_So_Long_Damage_Break_Fix_TR-SLD-BF.png" class="d-block w-300px" alt="Total Results So Long Damage Break Fix TR-SLD-BF">
                             </div>
 
                             <div class="slide__picture">
-                                <img  src="img/produits/rf_website_triphasic_stimulating-shampoo_200ml_packshot_product-page_400x493_0.png" class="d-block w-300px" alt="triphasic stimulating shampoo 200ml">
+                                <img  src="img/produits/Total_Results_Curl_Please_Conditioner_TR-CP-C.png" class="d-block w-300px" alt="Total Results Curl Please Conditioner TR-CP-C">
                             </div>
 
                             <div class="slide__picture">
-                                <img  src="img/produits/shampoo-karite-nutri-rene-furterer_0.png" class="d-block w-300px" alt="shampoo-karite-nutri-rene-furterer">
+                                <img  src="img/produits/Total_Results_Curl_Please_Shampoo_TR-CP-S.png" class="d-block w-300px" alt="Total Results Curl Please ShampooTR-CP-S">
                             </div>
 
                             <div class="slide__picture">
-                                <img  src="img/produits/rf_fiche-produits-packshots-okara-protectcolor-masque-sublim-pot-droit-400x493.png" class="d-block w-300px" alt="okara protectcolor masque sublim pot">
+                                <img  src="img/produits/Total_Results_Curl_Please_Super_Defrizzer_TR-CP-SD.png" class="d-block w-300px" alt="Total Results Curl Please Super Defrizzer TR-CP-SD">
                             </div>
 
                             <div class="slide__picture">
-                                <img  src="img/produits/shampoo_5_sens_renefurterer_2.png" class="d-block w-300px" alt="shampoo 5 sens renefurterer">
+                                <img  src="img/produits/Total_Results_So_Long_Damage_Shampoo_TR-SLD-S.png" class="d-block w-300px" alt="Total Results So Long Damage Shampoo TR-SLD-S">
                             </div>
 
                             <div class="slide__picture">
-                                <img  src="img/produits/7_-_gloss_brillance_ultime.png" class="d-block w-300px" alt="gloss brillance ultime">
+                                <img  src="img/produits/Total_Results_Hello_Blondie_Flash_Filler_TR-HB-FF.png" class="d-block w-300px" alt="Total Results Hello Blondie Flash Filler TR-HB-FF">
                             </div>
 
                             <div class="slide__picture">
-                                <img  src="img/produits/masque-reparateur-apres-soleil.png" class="d-block w-300px" alt="masque reparateur apres soleil">
+                                <img  src="img/produits/Total_Results_Hello_Blondie_Shampoo_TR-HB-S.png" class="d-block w-300px" alt="Total Results Hello Blondie Shampoo TR-HB-S.png">
                             </div>
 
                             <div class="slide__picture">
-                                <img  src="img/produits/traitement_antichute_concentre_rf80.png" class="d-block w-300px" alt="traitement antichute concentre">
+                                <img  src="img/produits/Total_Results_High_Amplify_Conditioner_TR-HA-C.png" class="d-block w-300px" alt="Total Results High Amplify Conditioner TR-HA-C">
                             </div>
 
                             <div class="slide__picture">
-                                <img  src="img/produits/1_-_mousse_vegetale_volume_et_fixation.png" class="d-block w-300px" alt="mousse vegetale volume et fixation">
+                                <img  src="img/produits/Total_Results_High_Amplify_Shampoo_TR-HA-S.png" class="d-block w-300px" alt="Total Results High Amplify Shampoo TR-HA-S">
                             </div>
 
                             <div class="slide__picture">
-                                <img  src="img/produits/rf_website_vitalfan_vitalite_30caps_packshot_product-page_400x493_0.png" class="d-block w-300px" alt="vitalfan vitalite">
+                                <img  src="img/produits/Total_Results_Mega_Sleek_Shampoo_TR-MS-S.png" class="d-block w-300px" alt="Total Results Mega Sleek Shampoo TR-MS-S">
                             </div>
                         </div>
                     </div>

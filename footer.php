@@ -15,7 +15,7 @@
             <ul class="menu__footer">
                 <li class="white-text">Tel:03.21.44.17.64</li>
                 <li class="white-text">Horaires:9h-12h-14h-19h</li>
-                <li class="white-text">199 Rue Jean Baptiste de Fernez</a></li>
+                <li class="white-text">199 Rue Jean Baptiste Défernez</a></li>
             </ul>
         </div>
     </div>

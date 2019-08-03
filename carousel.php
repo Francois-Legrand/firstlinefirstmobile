@@ -5,7 +5,7 @@
     </div>-->
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <img src="img/834px/7.jpg" class="d-block w-100" alt="Une femme qui a une coloration blanche avec un dégradé rose ">
+            <img src="img/834px/8.jpg" class="d-block w-100" alt="Un homme barbus">
         </div>
         <div class="carousel-item">
             <img src="img/834px/6.jpg" class="d-block w-100" alt="une femme aux longs cheuveux roux">
@@ -28,7 +28,7 @@
 <div id="carouselExampleFade" class="carousel__1024 carousel slide carousel-fade" data-ride="carousel">
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <img src="img/1024px/7.jpg" class="d-block w-100" alt="Une femme qui a une coloration blanche avec un dégradé rose ">
+            <img src="img/834px/8.jpg" class="d-block w-100" alt="Un homme barbus">
         </div>
         <div class="carousel-item">
             <img src="img/1024px/6.jpg" class="d-block w-100" alt="une femme aux longs cheuveux roux">
@@ -50,7 +50,7 @@
 <div id="carouselExampleFade" class="carousel__1400 carousel slide carousel-fade" data-ride="carousel">
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <img src="img/1400px/7.jpg" class="d-block w-100" alt="Une femme qui a une coloration blanche avec un dégradé rose ">
+            <img src="img/1400px/8.jpg" class="d-block w-100" alt="Un homme barbus">
         </div>
         <div class="carousel-item">
             <img src="img/1400px/6.jpg" class="d-block w-100" alt="une femme aux longs cheuveux roux">
@@ -72,7 +72,7 @@
 <div id="carouselExampleFade" class="carousel__1920 carousel slide carousel-fade" data-ride="carousel">
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <img src="img/1920px/7.jpg" class="d-block w-100" alt="Une femme qui a une coloration blanche avec un dégradé rose ">
+            <img src="img/1920px/8.jpg" class="d-block w-100" alt="Un homme barbus">
         </div>
         <div class="carousel-item">
             <img src="img/1920px/6.jpg" class="d-block w-100" alt="une femme aux longs cheuveux roux">
@@ -94,7 +94,7 @@
 <div id="carouselExampleFade" class="carousel__2560 carousel slide carousel-fade" data-ride="carousel">
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <img src="img/2560px/7.jpg" class="d-block w-100" alt="Une femme qui a une coloration blanche avec un dégradé rose ">
+            <img src="img/2560px/8.jpg" class="d-block w-100" alt="Un homme barbus">
         </div>
         <div class="carousel-item">
             <img src="img/2560px/6.jpg" class="d-block w-100" alt="une femme aux longs cheuveux roux">
@@ -116,7 +116,7 @@
 <div id="carouselExampleFade" class="carousel__3840 carousel slide carousel-fade" data-ride="carousel">
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <img src="img/3840px/7.jpg" class="d-block w-100" alt="Une femme qui a une coloration blanche avec un dégradé rose ">
+            <img src="img/3840px/8.jpg" class="d-block w-100" alt="Un homme barbus">
         </div>
         <div class="carousel-item">
             <img src="img/3840px/6.jpg" class="d-block w-100" alt="une femme aux longs cheuveux roux">

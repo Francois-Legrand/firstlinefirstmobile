@@ -31,7 +31,6 @@
         <!--main-->
         <main class="all">
             <section>
-                
                 <article class="container__top">
                     <h1 class="title__site title__site--votre-coiffeur">Votre <strong>coiffeur barbier de liévin</strong></h1>
                     <div class="container__presentation container__presentation--primary">
